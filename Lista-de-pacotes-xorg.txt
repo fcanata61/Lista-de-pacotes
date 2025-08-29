@@ -1,0 +1,61 @@
+# ==============================
+# PACOTES X11 / XORG (BLFS)
+# ==============================
+
+X11 xorgproto
+X11 libXau
+X11 libXdmcp
+X11 libX11
+X11 libXext
+X11 libFS
+X11 libICE
+X11 libSM
+X11 libXScrnSaver
+X11 libXt
+X11 libXtst
+X11 libXv
+X11 libXvMC
+X11 libXinerama
+X11 libXrandr
+X11 libXcursor
+X11 libXfixes
+X11 libXrender
+X11 libXres
+X11 libXcomposite
+X11 libXdamage
+X11 libfontenc
+X11 libxcb
+X11 libxshmfence
+X11 libpciaccess
+X11 libdrm
+
+X11 xcb-proto
+X11 xcb-util
+X11 xcb-util-image
+X11 xcb-util-keysyms
+X11 xcb-util-renderutil
+X11 xcb-util-wm
+X11 xtrans
+
+X11 xbitmaps
+X11 xcursor-themes
+X11 xkeyboard-config
+X11 xorg-server
+X11 xorg-server-xwayland
+X11 xorg-drivers
+X11 xorg-fonts
+X11 xorg-libraries
+X11 xorg-apps
+
+X11 Mesa
+X11 xrandr
+X11 xdpyinfo
+X11 xev
+X11 xhost
+X11 xinput
+X11 xkbcomp
+X11 xmodmap
+X11 xprop
+X11 xset
+X11 xwininfo
+X11 xauth
